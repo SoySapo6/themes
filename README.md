@@ -1,2 +1,0 @@
-# themes
-Temas de Pterodactyl
