@@ -18,7 +18,8 @@ fi
 REPO="https://raw.githubusercontent.com/SoySapo6/themes/main"
 
 clear
-echo -e "${COLOR_AZUL}Hecho por${COLOR_RESET}"
+echo
+echo -e "      ${COLOR_AZUL}Hecho por${COLOR_RESET}"
 
 echo -e "${COLOR_AZUL}"
 echo " _____         _____                 _ 
