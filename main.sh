@@ -48,7 +48,7 @@ while true; do
     case $op in
         1) bash <(curl -s $REPO/scripts/nebula.sh) ;;
         2) bash <(curl -s $REPO/scripts/elysium.sh) ;;
-        3) bash <(curl -s $REPO/scripts/stellar) ;;
+        3) bash <(curl -s $REPO/scripts/stellar.sh) ;;
         4) bash <(curl -s $REPO/scripts/nightcore.sh) ;;
         5) xdg-open "https://github.com/SoySapo6/themes" 2>/dev/null || echo "Abre este enlace: https://github.com/SoySapo6/themes" ;;
         6) exit 0 ;;
